@@ -65,6 +65,13 @@ The Purchase Urls Data Model describes URL paths to purchase a product from a ma
 > - **Introduced:** `v4.4.0`  
 > - **Tags:** <i class="optional">optional</i>
 
+> ### thecardgamestore  
+> The URL to purchase a product on [TheCardGameStore](https://thecardgamestore.com/collections/all-products?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=Wizards+of+the+Coast&sort_by=best-selling).  
+>
+> - **Type:** `string`  
+> - **Introduced:** `v4.4.0`  
+> - **Tags:** <i class="optional">optional</i>
+
 > ### tcgplayer
 > The URL to purchase a product on [TCGplayer](https://www.tcgplayer.com?partner=mtgjson&utm_campaign=affiliate&utm_medium=mtgjson&utm_source=mtgjson).  
 >
